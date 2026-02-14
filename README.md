@@ -1,0 +1,1 @@
+Trying to figure how to host full stack application
